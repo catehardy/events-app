@@ -2,9 +2,7 @@
 export const Footer = () => {
     return (
 <footer>
-<p>
-  Copyright 2023 - A <strong>Time to Code</strong> project built by Cate Hardy
-</p>
+&#169; 2023 <strong>Time to Code</strong> - Project built with Next.js
 </footer>
     )
 }
